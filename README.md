@@ -2,5 +2,4 @@
 - 👀 I’m interested in Game Development overall, specially in Graphics programming.
 - 😎 I know: Unity[Android native, iOS native, C/C++, C#], a bit Unreal Engine.
 - 🌱 I’m currently learning: DirectX API, Vulkan and improve my C/C++ and OpenGL knowledge. 
-- 💞️ I’m looking to collaborate on self 2D engine development for visual novels (maybe for 🔞 😏)
 - 📫 How to reach me Discord (stenky#4459)
