@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @stanislavkaliuk aka Stenky aka Stanislav Kaliuk
-- 👀 I’m interested in Game Development overall, specially in Graphics programming.
-- 😎 I know: Unity[Android native, iOS native, C/C++, C#], a bit Unreal Engine.
-- 🌱 I’m currently learning: DirectX API, Vulkan and improve my C/C++ and OpenGL knowledge. 
+- 👀 I’m interested in Graphics programing and Embedded systems.
+- 😎 I have a lot experience in Unity, OpenGL, Vulkan, Android and iOS plugin development, a bit familiar with Unreal Engine.
+- 😎 Also have a passion in Embedded Systems, such as prototyping and low-level programming, organize devices through various of communication interfaces
